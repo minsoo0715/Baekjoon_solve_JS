@@ -1,4 +1,5 @@
 play.js
 node_modules/
 dev
+.vscode
 
